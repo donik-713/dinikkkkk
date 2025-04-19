@@ -1,0 +1,44 @@
+.menu{
+    width:1283px ;
+    height:39px ;
+    border: 2px solid rgb(255, 255, 255);
+    margin:0 auto ;
+    display: flex;
+    justify-content:space-between ;
+    font-size:24px;
+    list-style:none ;
+}
+.ppo{
+    text-align: center;
+    width:301px ;
+    height: 77px;
+    top:250px ;
+    margin: 0 auto;
+    font-size:55px ;
+}
+.left{
+    border: 1px solid red;
+    display:inline;
+    justify-content: space-between;
+    color: white;
+    background-color: red;
+    padding:180px ;
+}
+.box{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 0;
+
+}
+.mena{
+    width:1283px ;
+    height:39px ;
+    border: 2px solid rgb(255, 255, 255);
+    margin-top: 300px;
+    display: flex;
+    justify-content:space-between ;
+    font-size:24px;
+    list-style:none ;
+    margin-left: 50px;
+}
